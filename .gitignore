@@ -1,0 +1,10 @@
+**/.DS_Store
+**/.gradle/**
+**/.vscode/**
+**/gradle/wrapper/
+**/gradlew
+**/gradlew.bat
+**/build/
+**/.idea/
+!**/gradle/local-libs/**
+!**/gradle/libs.versions.toml
