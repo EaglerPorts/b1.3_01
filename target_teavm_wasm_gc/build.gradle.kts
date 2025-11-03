@@ -86,14 +86,7 @@ eaglercraftBuild {
 				"$srcFolder/platformNetworking.js",
 				"$srcFolder/platformOpenGL.js",
 				"$srcFolder/platformRuntime.js",
-				"$srcFolder/platformScreenRecord.js",
-				"$srcFolder/platformVoiceClient.js",
-				"$srcFolder/platformWebRTC.js",
-				"$srcFolder/platformWebView.js",
-				"$srcFolder/clientPlatformSingleplayer.js",
-				"$srcFolder/serverPlatformSingleplayer.js",
 				"$srcFolder/WASMGCBufferAllocator.js",
-				"$srcFolder/fix-webm-duration.js",
 				"$srcFolder/teavm_runtime.js",
 				"$srcFolder/eagruntime_entrypoint.js"
 			)
