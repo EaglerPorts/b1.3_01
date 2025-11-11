@@ -22,7 +22,7 @@ public class GuiScreenCreateOrImport extends GuiScreen {
   public void initGui() {
     controlList.add(new GuiButton(0, (this.width - 200) / 2, this.height / 3 + 5, I18n.format("selectWorld.create")));
     controlList.add(new GuiButton(1, (this.width - 200) / 2, this.height / 3 + 29, I18n.format("selectWorld.import")));
-    controlList.add(new GuiButton(2, (this.width - 200) / 2, this.height / 3 + 77, I18n.format("gui.cancel")));
+    controlList.add(new GuiButton(2, (this.width - 200) / 2, this.height / 3 + 53, I18n.format("gui.cancel")));
   }
 
   @Override
